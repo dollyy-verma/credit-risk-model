@@ -1,0 +1,3752 @@
+[
+  {
+    "applicant_index": 0,
+    "top_factors": [
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.32545483112335205,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.21354694664478302,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.21089528501033783,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.08728121221065521,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.06526990979909897,
+        "feature_value": 18.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 2,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.4310165345668793,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.38693293929100037,
+        "feature_value": 24.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.33603495359420776,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.29675644636154175,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.18788796663284302,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 3,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.43436959385871887,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.34129905700683594,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_no credits/all paid",
+        "shap_value": 0.31203651428222656,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.22426125407218933,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.13437069952487946,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 4,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.3925777077674866,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.20741355419158936,
+        "feature_value": 27.0
+      },
+      {
+        "feature": "savings_account_unknown/no savings",
+        "shap_value": 0.08956241607666016,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (used)",
+        "shap_value": 0.07221775501966476,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "existing_credits",
+        "shap_value": 0.06534785032272339,
+        "feature_value": 2.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 5,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.36175674200057983,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.31772634387016296,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.1332135945558548,
+        "feature_value": 882.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.06720811128616333,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "existing_credits",
+        "shap_value": 0.06379622966051102,
+        "feature_value": 2.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 6,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.4959738254547119,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.15279395878314972,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_unknown/no savings",
+        "shap_value": 0.06064848601818085,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (used)",
+        "shap_value": 0.05215849354863167,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_4-7 years",
+        "shap_value": 0.04602210596203804,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 7,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.4357950687408447,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.2143881767988205,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "property_real estate",
+        "shap_value": 0.15697994828224182,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.13499705493450165,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_unemployed",
+        "shap_value": 0.1346713900566101,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 8,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.4050781726837158,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.2321404665708542,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.15508738160133362,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.10738670825958252,
+        "feature_value": 18.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.08490864187479019,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 11,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.4285603165626526,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.19085529446601868,
+        "feature_value": 4843.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.13988639414310455,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "housing_rent",
+        "shap_value": 0.12970712780952454,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "housing_own",
+        "shap_value": 0.12229792028665543,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 13,
+    "top_factors": [
+      {
+        "feature": "duration",
+        "shap_value": 0.26131367683410645,
+        "feature_value": 27.0
+      },
+      {
+        "feature": "housing_rent",
+        "shap_value": 0.13488894701004028,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.1317986398935318,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.10961106419563293,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.10535840690135956,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 14,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.42406678199768066,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.22165744006633759,
+        "feature_value": 18.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.1506655365228653,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.13707885146141052,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "housing_rent",
+        "shap_value": 0.11682567745447159,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 16,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5463365316390991,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.2656903564929962,
+        "feature_value": 16.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.1369708776473999,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "housing_own",
+        "shap_value": 0.1200101375579834,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_unemployed",
+        "shap_value": 0.07778232544660568,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 23,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.37475109100341797,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.3635261058807373,
+        "feature_value": 24.0
+      },
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.2336071878671646,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.2196548879146576,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.18102462589740753,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 24,
+    "top_factors": [
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.4461837410926819,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.3174973428249359,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "housing_rent",
+        "shap_value": 0.22526559233665466,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.1801607757806778,
+        "feature_value": 18.0
+      },
+      {
+        "feature": "housing_own",
+        "shap_value": 0.16761356592178345,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 25,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.43744564056396484,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.15664225816726685,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.1411767601966858,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "employment_since_unemployed",
+        "shap_value": 0.11808411777019501,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.09247235953807831,
+        "feature_value": 18.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 27,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.4926348030567169,
+        "feature_value": 683.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.36451342701911926,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.34157341718673706,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.23614053428173065,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_real estate",
+        "shap_value": 0.14931504428386688,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 28,
+    "top_factors": [
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.48763829469680786,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.33130988478660583,
+        "feature_value": 5103.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.17933450639247894,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "housing_own",
+        "shap_value": 0.1157231554389,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.09388365596532822,
+        "feature_value": 24.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 31,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.4078080654144287,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_real estate",
+        "shap_value": 0.2086968719959259,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.14603400230407715,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "num_dependents",
+        "shap_value": 0.10985857993364334,
+        "feature_value": 2.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.08454887568950653,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 32,
+    "top_factors": [
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.15462042391300201,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_furniture/equipment",
+        "shap_value": 0.1336558610200882,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "housing_rent",
+        "shap_value": 0.12803278863430023,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "housing_own",
+        "shap_value": 0.10358401387929916,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.1018141433596611,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 33,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 1.0881478786468506,
+        "feature_value": 15672.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.5082349181175232,
+        "feature_value": 48.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.43818989396095276,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.22505125403404236,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_unknown/no savings",
+        "shap_value": 0.11034532636404037,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 35,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.4337020218372345,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.4125064015388489,
+        "feature_value": 24.0
+      },
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.37117499113082886,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.25227636098861694,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.19313733279705048,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 36,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.42839816212654114,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.2994130253791809,
+        "feature_value": 24.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.2742982804775238,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.2155115008354187,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.18215592205524445,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 37,
+    "top_factors": [
+      {
+        "feature": "duration",
+        "shap_value": 0.736278772354126,
+        "feature_value": 48.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.4470881521701813,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.23622079193592072,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.22309356927871704,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.12748408317565918,
+        "feature_value": 3.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 39,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.8943209648132324,
+        "feature_value": 15857.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.48700085282325745,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.4453149437904358,
+        "feature_value": 36.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.15221144258975983,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "employment_since_unemployed",
+        "shap_value": 0.13351954519748688,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 40,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.44185954332351685,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.17072273790836334,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.14851383864879608,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.11844252794981003,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.08927451074123383,
+        "feature_value": 3.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 41,
+    "top_factors": [
+      {
+        "feature": "duration",
+        "shap_value": 0.7817454934120178,
+        "feature_value": 48.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5623282790184021,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.1895483285188675,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.14421921968460083,
+        "feature_value": 4.0
+      },
+      {
+        "feature": "existing_credits",
+        "shap_value": 0.10709220170974731,
+        "feature_value": 2.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 42,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.31786948442459106,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.1377687156200409,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_furniture/equipment",
+        "shap_value": 0.13114440441131592,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.09217873960733414,
+        "feature_value": 4351.0
+      },
+      {
+        "feature": "property_real estate",
+        "shap_value": 0.06151996925473213,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 43,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.9316015243530273,
+        "feature_value": 13756.0
+      },
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.6501494646072388,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.17614947259426117,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.12996512651443481,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.10761632770299911,
+        "feature_value": 60.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 44,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5177981853485107,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.2513599693775177,
+        "feature_value": 1275.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.22204066812992096,
+        "feature_value": 24.0
+      },
+      {
+        "feature": "purpose_car (used)",
+        "shap_value": 0.05025114864110947,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "existing_credits",
+        "shap_value": 0.04592491313815117,
+        "feature_value": 2.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 46,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5131789445877075,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.2720591425895691,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.17442287504673004,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.17217445373535156,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.1602030247449875,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 47,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.35009512305259705,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_no credits/all paid",
+        "shap_value": 0.3325757682323456,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.2082785665988922,
+        "feature_value": 30.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.15372759103775024,
+        "feature_value": 4.0
+      },
+      {
+        "feature": "housing_rent",
+        "shap_value": 0.15211458504199982,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 48,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5014464855194092,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.26653653383255005,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.2516423761844635,
+        "feature_value": 1262.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.1426263004541397,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_real estate",
+        "shap_value": 0.13065767288208008,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 52,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.44743597507476807,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.1675557792186737,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.1471540927886963,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.10692773759365082,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_unknown/no savings",
+        "shap_value": 0.054811686277389526,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 53,
+    "top_factors": [
+      {
+        "feature": "duration",
+        "shap_value": 0.697240948677063,
+        "feature_value": 48.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.3515963852405548,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.11955790221691132,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_unknown/no savings",
+        "shap_value": 0.08319348096847534,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (used)",
+        "shap_value": 0.0643475130200386,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 54,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5455130338668823,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.2829756736755371,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "employment_since_unemployed",
+        "shap_value": 0.21613912284374237,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.16563332080841064,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.15581335127353668,
+        "feature_value": 18.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 55,
+    "top_factors": [
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.32678329944610596,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.3163436949253082,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.11720940470695496,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_4-7 years",
+        "shap_value": 0.054934047162532806,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_existing credits paid duly",
+        "shap_value": 0.04621328040957451,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 58,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.325617253780365,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.2322014421224594,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.19689352810382843,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.18397313356399536,
+        "feature_value": 4.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.16434869170188904,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 59,
+    "top_factors": [
+      {
+        "feature": "duration",
+        "shap_value": 0.5393844246864319,
+        "feature_value": 36.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5132234692573547,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.302139550447464,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.1962020993232727,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.19051814079284668,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 60,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.4156435430049896,
+        "feature_value": 745.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.4155280292034149,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.08204787224531174,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (used)",
+        "shap_value": 0.047441307455301285,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_4-7 years",
+        "shap_value": 0.03773131221532822,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 61,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5351847410202026,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.35473543405532837,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.19834977388381958,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.1975470781326294,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.19489189982414246,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 62,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.42307838797569275,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.2495134472846985,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.2200220823287964,
+        "feature_value": 30.0
+      },
+      {
+        "feature": "housing_rent",
+        "shap_value": 0.10445138067007065,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_unknown/no savings",
+        "shap_value": 0.06111875921487808,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 63,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.9170568585395813,
+        "feature_value": 11328.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.2966190576553345,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.28787726163864136,
+        "feature_value": 24.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.2369396686553955,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.1445184350013733,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 65,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.46483173966407776,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.2782071530818939,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.20578981935977936,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.13488252460956573,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.10671231895685196,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 68,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.8363819718360901,
+        "feature_value": 18424.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.3246840238571167,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.32056349515914917,
+        "feature_value": 48.0
+      },
+      {
+        "feature": "credit_history_no credits/all paid",
+        "shap_value": 0.21116043627262115,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.18913891911506653,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 69,
+    "top_factors": [
+      {
+        "feature": "duration",
+        "shap_value": 0.44149050116539,
+        "feature_value": 36.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.3520161807537079,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.26007741689682007,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.2396422177553177,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.150098517537117,
+        "feature_value": 4795.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 70,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 1.0568084716796875,
+        "feature_value": 14555.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.1986849159002304,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_unemployed",
+        "shap_value": 0.15717528760433197,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.15193617343902588,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "property_real estate",
+        "shap_value": 0.11353570967912674,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 71,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.33013755083084106,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.19181852042675018,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.15223334729671478,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "housing_rent",
+        "shap_value": 0.1496969610452652,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "housing_own",
+        "shap_value": 0.11142755299806595,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 73,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.7250519394874573,
+        "feature_value": 754.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5276672840118408,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_real estate",
+        "shap_value": 0.154056578874588,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.14534243941307068,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "telephone_yes, registered",
+        "shap_value": 0.06996189057826996,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 74,
+    "top_factors": [
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.4157831370830536,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.35896438360214233,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.14888878166675568,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_real estate",
+        "shap_value": 0.09759575128555298,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.09546656161546707,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 76,
+    "top_factors": [
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.3268950879573822,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.28965261578559875,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.1502416729927063,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.12909260392189026,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.10643687844276428,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 78,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.4450298547744751,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.42789018154144287,
+        "feature_value": 24.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.22530128061771393,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.21060281991958618,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.20491482317447662,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 79,
+    "top_factors": [
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.3675038814544678,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.2815103828907013,
+        "feature_value": 18.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.14234407246112823,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.11522873491048813,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.09457820653915405,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 80,
+    "top_factors": [
+      {
+        "feature": "duration",
+        "shap_value": 0.6072765588760376,
+        "feature_value": 36.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5645230412483215,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.4007948637008667,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.16583918035030365,
+        "feature_value": 4.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.141413152217865,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 82,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.3149058222770691,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.2776613235473633,
+        "feature_value": 36.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.2165282964706421,
+        "feature_value": 8086.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.12563954293727875,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.10917098820209503,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 85,
+    "top_factors": [
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.56828773021698,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_unemployed",
+        "shap_value": 0.1134127527475357,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.10993789881467819,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "other_debtors_none",
+        "shap_value": 0.10491533577442169,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.10162783414125443,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 86,
+    "top_factors": [
+      {
+        "feature": "duration",
+        "shap_value": 0.27921977639198303,
+        "feature_value": 18.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.26677635312080383,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "num_dependents",
+        "shap_value": 0.11680581420660019,
+        "feature_value": 2.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.10241899639368057,
+        "feature_value": 4.0
+      },
+      {
+        "feature": "telephone_yes, registered",
+        "shap_value": 0.08510017395019531,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 88,
+    "top_factors": [
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.34488049149513245,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.32532626390457153,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.21225544810295105,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.14972245693206787,
+        "feature_value": 626.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.1255536675453186,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 89,
+    "top_factors": [
+      {
+        "feature": "credit_history_delay in past",
+        "shap_value": 0.33978262543678284,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.25297680497169495,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.21530669927597046,
+        "feature_value": 4.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.20117847621440887,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.15404294431209564,
+        "feature_value": 24.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 90,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.51859050989151,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.510094165802002,
+        "feature_value": 60.0
+      },
+      {
+        "feature": "purpose_education",
+        "shap_value": 0.38712066411972046,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.28244200348854065,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.26076841354370117,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 91,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5776293277740479,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.4434630274772644,
+        "feature_value": 1275.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.30615144968032837,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.1772422045469284,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_real estate",
+        "shap_value": 0.11506006866693497,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 92,
+    "top_factors": [
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.2549656927585602,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.20427316427230835,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.14743854105472565,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_real estate",
+        "shap_value": 0.14515282213687897,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_unemployed",
+        "shap_value": 0.11805499345064163,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 93,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.6426755785942078,
+        "feature_value": 10875.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.2041480541229248,
+        "feature_value": 36.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.1987181156873703,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.18409013748168945,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.13445371389389038,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 95,
+    "top_factors": [
+      {
+        "feature": "duration",
+        "shap_value": 0.3209347128868103,
+        "feature_value": 21.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.25488945841789246,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_furniture/equipment",
+        "shap_value": 0.13709396123886108,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "existing_credits",
+        "shap_value": 0.12866993248462677,
+        "feature_value": 2.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.12748055160045624,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 96,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.5864521265029907,
+        "feature_value": 11816.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.4207550585269928,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.32704177498817444,
+        "feature_value": 45.0
+      },
+      {
+        "feature": "credit_history_no credits/all paid",
+        "shap_value": 0.265537291765213,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.22944922745227814,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 97,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.4804423451423645,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.2936408817768097,
+        "feature_value": 27.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.2500126361846924,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.16766980290412903,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.16047419607639313,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 98,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.2325192093849182,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_unemployed",
+        "shap_value": 0.20949965715408325,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.1960732787847519,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "housing_rent",
+        "shap_value": 0.13069219887256622,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.07068168371915817,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 103,
+    "top_factors": [
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.5208975076675415,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.2315959632396698,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.19511575996875763,
+        "feature_value": 18.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.17164286971092224,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "num_dependents",
+        "shap_value": 0.13027650117874146,
+        "feature_value": 2.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 105,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.42260897159576416,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.40985313057899475,
+        "feature_value": 24.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.19558794796466827,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.18853966891765594,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.18777793645858765,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 108,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5259154438972473,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.268161803483963,
+        "feature_value": 1225.0
+      },
+      {
+        "feature": "property_real estate",
+        "shap_value": 0.15106680989265442,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.11509007215499878,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.10958679020404816,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 109,
+    "top_factors": [
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.7966301441192627,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.31346771121025085,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.2858182489871979,
+        "feature_value": 18.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.11521144956350327,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "purpose_car (used)",
+        "shap_value": 0.07320606708526611,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 110,
+    "top_factors": [
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.7307944297790527,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.5631961822509766,
+        "feature_value": 10127.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.212394118309021,
+        "feature_value": 48.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.1736881583929062,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.15424096584320068,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 112,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.3978084921836853,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_no credits/all paid",
+        "shap_value": 0.3081921637058258,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.22125139832496643,
+        "feature_value": 30.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.16562870144844055,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.16178598999977112,
+        "feature_value": 4221.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 115,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5484240055084229,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_no credits/all paid",
+        "shap_value": 0.3437826335430145,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.2710990905761719,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.17212365567684174,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.1422378271818161,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 116,
+    "top_factors": [
+      {
+        "feature": "duration",
+        "shap_value": 0.48736655712127686,
+        "feature_value": 45.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.3045567274093628,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "housing_rent",
+        "shap_value": 0.18606916069984436,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.11174031347036362,
+        "feature_value": 4.0
+      },
+      {
+        "feature": "other_debtors_none",
+        "shap_value": 0.11050029844045639,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 117,
+    "top_factors": [
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.5819103717803955,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.26327750086784363,
+        "feature_value": 18.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.23488575220108032,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.19360239803791046,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.13827106356620789,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 120,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5454864501953125,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.22940972447395325,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.18723168969154358,
+        "feature_value": 24.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.15041999518871307,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.11875619739294052,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 121,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.3933508098125458,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.20685727894306183,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.09970127046108246,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.09594913572072983,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "purpose_car (used)",
+        "shap_value": 0.04904983565211296,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 122,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5270243883132935,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.3881434500217438,
+        "feature_value": 27.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.28487545251846313,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.19617004692554474,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.1621992439031601,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 124,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.3781791925430298,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.3100482225418091,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.19441598653793335,
+        "feature_value": 24.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.19283896684646606,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.13735198974609375,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 127,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.49855250120162964,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.15976528823375702,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "purpose_car (used)",
+        "shap_value": 0.07603157311677933,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_unknown/no savings",
+        "shap_value": 0.07408812642097473,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.06634611636400223,
+        "feature_value": 21.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 128,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.38571593165397644,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "housing_rent",
+        "shap_value": 0.14789652824401855,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.10386338829994202,
+        "feature_value": 24.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.10152716934680939,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.09539055824279785,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 129,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5072978734970093,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.3926529586315155,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.18647746741771698,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.1790035218000412,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.10746190696954727,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 130,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.5879292488098145,
+        "feature_value": 8133.0
+      },
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.533521294593811,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.2646736800670624,
+        "feature_value": 36.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.11074574291706085,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "employment_since_4-7 years",
+        "shap_value": 0.09180227667093277,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 131,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.1887967437505722,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.17100393772125244,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.15523472428321838,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.1456306129693985,
+        "feature_value": 4.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.1426723748445511,
+        "feature_value": 18.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 132,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.6679695248603821,
+        "feature_value": 11760.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.49360859394073486,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.33404889702796936,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "purpose_education",
+        "shap_value": 0.2710559368133545,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_unknown/no savings",
+        "shap_value": 0.11849994957447052,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 133,
+    "top_factors": [
+      {
+        "feature": "purpose_education",
+        "shap_value": 0.4225834310054779,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.39887115359306335,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.34466370940208435,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.29950231313705444,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.24276316165924072,
+        "feature_value": 1200.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 134,
+    "top_factors": [
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.358564555644989,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.35394760966300964,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.3173215091228485,
+        "feature_value": 1358.0
+      },
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.24461272358894348,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.1827763468027115,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 135,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.4519541561603546,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.19251404702663422,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.19096580147743225,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.1564040184020996,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.1363791674375534,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 138,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.3742421865463257,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.20455220341682434,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.1284446269273758,
+        "feature_value": 4272.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.11687971651554108,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "purpose_car (used)",
+        "shap_value": 0.05725778266787529,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 139,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.23847828805446625,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.1772153377532959,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.14586934447288513,
+        "feature_value": 1289.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.1429457664489746,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "property_real estate",
+        "shap_value": 0.105293869972229,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 140,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.3531075716018677,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.28608736395835876,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.25789278745651245,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.17564530670642853,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.15498603880405426,
+        "feature_value": 24.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 141,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 1.144732117652893,
+        "feature_value": 10974.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.4066789448261261,
+        "feature_value": 36.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.19920271635055542,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_unemployed",
+        "shap_value": 0.18324272334575653,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.16183561086654663,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 143,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.416862815618515,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.3456282913684845,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.3273199200630188,
+        "feature_value": 27.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.23595185577869415,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.1452515423297882,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 144,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.41279420256614685,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.10631114989519119,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_repairs",
+        "shap_value": 0.09835860133171082,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "purpose_radio/TV",
+        "shap_value": 0.060943204909563065,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (used)",
+        "shap_value": 0.05766316130757332,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 145,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.6110748052597046,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.5372628569602966,
+        "feature_value": 759.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.2827482223510742,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.1916934847831726,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.16299927234649658,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 152,
+    "top_factors": [
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.3557668626308441,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.30118462443351746,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.2599887251853943,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.08809053897857666,
+        "feature_value": 625.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.07804154604673386,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 154,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.4626326262950897,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.1565396785736084,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "employment_since_unemployed",
+        "shap_value": 0.14430786669254303,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.12109505385160446,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "housing_rent",
+        "shap_value": 0.11878476291894913,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 155,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.4292042851448059,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.17242731153964996,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.11694034934043884,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.10734200477600098,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "property_real estate",
+        "shap_value": 0.09526357799768448,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 156,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5030186772346497,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.36026453971862793,
+        "feature_value": 30.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.2962484359741211,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.194808229804039,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.1884051263332367,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 157,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.828281044960022,
+        "feature_value": 12749.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.19798436760902405,
+        "feature_value": 4.0
+      },
+      {
+        "feature": "credit_history_delay in past",
+        "shap_value": 0.17169496417045593,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.14925682544708252,
+        "feature_value": 48.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.12731027603149414,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 158,
+    "top_factors": [
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.6771834492683411,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_education",
+        "shap_value": 0.46999847888946533,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.12992137670516968,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "housing_own",
+        "shap_value": 0.08298268914222717,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_4-7 years",
+        "shap_value": 0.07763030380010605,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 159,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5642005205154419,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.27304360270500183,
+        "feature_value": 24.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.15932567417621613,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.1587735414505005,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.08382134884595871,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 160,
+    "top_factors": [
+      {
+        "feature": "duration",
+        "shap_value": 0.5495456457138062,
+        "feature_value": 48.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.466242253780365,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.2290189117193222,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.13830576837062836,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "housing_rent",
+        "shap_value": 0.10405261069536209,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 162,
+    "top_factors": [
+      {
+        "feature": "duration",
+        "shap_value": 0.7122170925140381,
+        "feature_value": 45.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5309836864471436,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.39644500613212585,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.30745357275009155,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.17805883288383484,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 164,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.7367296814918518,
+        "feature_value": 10144.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.41722628474235535,
+        "feature_value": 60.0
+      },
+      {
+        "feature": "savings_account_unknown/no savings",
+        "shap_value": 0.06010724976658821,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (used)",
+        "shap_value": 0.043748002499341965,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.037763819098472595,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 166,
+    "top_factors": [
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.46988004446029663,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.2693120241165161,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.09229724854230881,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.05582280084490776,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "other_debtors_none",
+        "shap_value": 0.054352834820747375,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 167,
+    "top_factors": [
+      {
+        "feature": "credit_history_no credits/all paid",
+        "shap_value": 0.34381815791130066,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.33811432123184204,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.1649356186389923,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.14930041134357452,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.1446799635887146,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 168,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.31167134642601013,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.22000469267368317,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.21731986105442047,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.2149084210395813,
+        "feature_value": 21.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.17161422967910767,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 170,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.8830135464668274,
+        "feature_value": 12389.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.4106951653957367,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.31696033477783203,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.18229788541793823,
+        "feature_value": 36.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.10470578074455261,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 175,
+    "top_factors": [
+      {
+        "feature": "duration",
+        "shap_value": 0.6211695671081543,
+        "feature_value": 36.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.40604785084724426,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.2395831197500229,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.20689386129379272,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.19481554627418518,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 178,
+    "top_factors": [
+      {
+        "feature": "duration",
+        "shap_value": 0.4650575518608093,
+        "feature_value": 48.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.44980186223983765,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_education",
+        "shap_value": 0.37390485405921936,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.3144289255142212,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.2655208706855774,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 179,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5304978489875793,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.3503383696079254,
+        "feature_value": 42.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.3067043423652649,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.17346692085266113,
+        "feature_value": 4.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.13640369474887848,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 180,
+    "top_factors": [
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.4762206971645355,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.30658289790153503,
+        "feature_value": 4675.0
+      },
+      {
+        "feature": "housing_rent",
+        "shap_value": 0.14230649173259735,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.1256217658519745,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_4-7 years",
+        "shap_value": 0.10179950296878815,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 181,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5932377576828003,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.4114602208137512,
+        "feature_value": 24.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.379525363445282,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.24200741946697235,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.17171987891197205,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 182,
+    "top_factors": [
+      {
+        "feature": "purpose_education",
+        "shap_value": 0.5263805389404297,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.41477271914482117,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.141205832362175,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.13864931464195251,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "housing_rent",
+        "shap_value": 0.11043752729892731,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 183,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.35048359632492065,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.2711934447288513,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.2244216501712799,
+        "feature_value": 24.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.19050219655036926,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.18086323142051697,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 184,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.39727288484573364,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.33897095918655396,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.12805584073066711,
+        "feature_value": 18.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.1222628727555275,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "existing_credits",
+        "shap_value": 0.10489016026258469,
+        "feature_value": 2.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 185,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 1.108924150466919,
+        "feature_value": 14896.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.2728554606437683,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.23918922245502472,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.18744641542434692,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.17527376115322113,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 186,
+    "top_factors": [
+      {
+        "feature": "duration",
+        "shap_value": 0.5428829789161682,
+        "feature_value": 72.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.39070624113082886,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_unknown/no savings",
+        "shap_value": 0.0900220274925232,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (used)",
+        "shap_value": 0.06321743875741959,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_real estate",
+        "shap_value": 0.06278900057077408,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 188,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.48887476325035095,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.37796929478645325,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.19386348128318787,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.10082920640707016,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "telephone_yes, registered",
+        "shap_value": 0.05932706594467163,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 190,
+    "top_factors": [
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.3799736201763153,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.1612337976694107,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.12403903901576996,
+        "feature_value": 24.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.10560542345046997,
+        "feature_value": 4.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.1031719371676445,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 191,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.39811208844184875,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.3951939642429352,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.3048625886440277,
+        "feature_value": 24.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.23560282588005066,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.21045203506946564,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 193,
+    "top_factors": [
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.29703521728515625,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.19063910841941833,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.12785685062408447,
+        "feature_value": 4.0
+      },
+      {
+        "feature": "job_unskilled resident",
+        "shap_value": 0.10784029960632324,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.09384053200483322,
+        "feature_value": 24.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 195,
+    "top_factors": [
+      {
+        "feature": "duration",
+        "shap_value": 0.5569950938224792,
+        "feature_value": 48.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5460144877433777,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_no credits/all paid",
+        "shap_value": 0.3531286120414734,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.3271188735961914,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.23875689506530762,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 198,
+    "top_factors": [
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.4553130567073822,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.3098096549510956,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.16869865357875824,
+        "feature_value": 30.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.15630561113357544,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.1294451206922531,
+        "feature_value": 4.0
+      }
+    ]
+  }
+]

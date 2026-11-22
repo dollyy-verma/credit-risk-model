@@ -1,0 +1,15 @@
+pandas
+numpy
+scipy
+statsmodels
+scikit-learn
+xgboost
+lightgbm
+shap
+matplotlib
+seaborn
+optuna
+jupyter
+ipykernel
+python-dotenv
+groq

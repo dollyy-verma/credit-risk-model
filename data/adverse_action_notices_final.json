@@ -1,0 +1,4002 @@
+[
+  {
+    "applicant_index": 0,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including the presence of other installment plans you currently have, having been employed for less than one year, and the fact that you maintain a checking account rather than a longer\u2011standing credit history. Additionally, the requested loan term of 18 months and the limited length of your credit history were also considered. Under the Equal Credit Opportunity Act, you may request a further explanation of this decision and a copy of the information used in evaluating your application.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.32545483112335205,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.21354694664478302,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.21089528501033783,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.08728121221065521,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.06526990979909897,
+        "feature_value": 18.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 2,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors: you have a checking account with a balance that is below zero, you requested a loan term of 24 months, you currently have other installment plans with another lender or store, and the portion of your income allocated to existing installments is at the higher end of our scale. These items together did not meet our lending criteria for this product. You have the right to request a more detailed explanation and a copy of the information used in this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.4310165345668793,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.38693293929100037,
+        "feature_value": 24.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.33603495359420776,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.29675644636154175,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.18788796663284302,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 3,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the fact that you have a checking account with a balance below 0\u202fDM, you have no open credit lines or all existing credits are fully paid, and your savings account balance is less than 100\u202fDM. Additionally, you do not have a critical credit history, which also weighed into the decision. Under the Equal Credit Opportunity Act, you may request a further explanation and a copy of the information used in making this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.43436959385871887,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.34129905700683594,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_no credits/all paid",
+        "shap_value": 0.31203651428222656,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.22426125407218933,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.13437069952487946,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 4,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including the presence of a checking account, the requested loan term of 27 months, the existence of a savings account, the loan purpose not being a used car, and the fact that you currently have two other credit accounts with us. If you would like further clarification or a copy of the information used in making this decision, you may request it in writing in accordance with your rights under the Equal Credit Opportunity Act.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.3925777077674866,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.20741355419158936,
+        "feature_value": 27.0
+      },
+      {
+        "feature": "savings_account_unknown/no savings",
+        "shap_value": 0.08956241607666016,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (used)",
+        "shap_value": 0.07221775501966476,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "existing_credits",
+        "shap_value": 0.06534785032272339,
+        "feature_value": 2.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 5,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including the fact that you have a checking account with us, your employment history of less than one year, the amount of credit you requested (882\u202fDM), a savings account balance below 100\u202fDM, and the presence of two existing credit accounts at this bank. If you would like further clarification or a copy of the information used in making this decision, you may request it in writing in accordance with the Equal Credit Opportunity Act.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.36175674200057983,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.31772634387016296,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.1332135945558548,
+        "feature_value": 882.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.06720811128616333,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "existing_credits",
+        "shap_value": 0.06379622966051102,
+        "feature_value": 2.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 6,
+    "notice": "We regret to inform you that your loan application was not approved. Our review considered several factors, including that you have a checking account, your savings account balance is below 100\u202fDM, you have an existing savings account, the purpose of the loan is not for a used car, and your employment duration falls outside the 4\u2011to\u20117\u2011year range. Under the Equal Credit Opportunity Act, you may request a more detailed explanation and a copy of the information used in this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.4959738254547119,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.15279395878314972,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_unknown/no savings",
+        "shap_value": 0.06064848601818085,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (used)",
+        "shap_value": 0.05215849354863167,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_4-7 years",
+        "shap_value": 0.04602210596203804,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 7,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the fact that your checking account balance is below zero, you do not own real estate, you have a limited credit history, and you are currently unemployed. Additionally, while you do have a checking account, the overall profile did not meet our lending criteria. You have the right to request further clarification and a copy of the information used in this decision in accordance with the Equal Credit Opportunity Act.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.4357950687408447,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.2143881767988205,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "property_real estate",
+        "shap_value": 0.15697994828224182,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.13499705493450165,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_unemployed",
+        "shap_value": 0.1346713900566101,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 8,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including that you currently have a checking account, the loan is intended for the purchase of a new car, your savings account balance is below 100\u202fDM, the requested loan term is 18\u202fmonths, and you do not have a critical credit history. If you would like further clarification or a copy of the information used in making this decision, you have the right to request it under the Equal Credit Opportunity Act.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.4050781726837158,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.2321404665708542,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.15508738160133362,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.10738670825958252,
+        "feature_value": 18.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.08490864187479019,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 11,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including the amount of credit you requested, the fact that your checking account balance is negative, and your current housing situation as a renter without owning a home. Additionally, while you do have a checking account, these combined circumstances did not meet our lending criteria. You have the right to request further clarification and to receive a copy of the information used in making this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.4285603165626526,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.19085529446601868,
+        "feature_value": 4843.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.13988639414310455,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "housing_rent",
+        "shap_value": 0.12970712780952454,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "housing_own",
+        "shap_value": 0.12229792028665543,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 13,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including the 27\u2011month loan term you requested, your current rental housing situation, and the purpose of the loan being a new car purchase. In addition, we considered that you do not have an established credit history and that your savings account balance is below the required threshold. You have the right to request further clarification of this decision and to obtain a copy of the information used in making it, as provided by law.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "duration",
+        "shap_value": 0.26131367683410645,
+        "feature_value": 27.0
+      },
+      {
+        "feature": "housing_rent",
+        "shap_value": 0.13488894701004028,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.1317986398935318,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.10961106419563293,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.10535840690135956,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 14,
+    "notice": "Dear Applicant,\n\nWe regret to inform you that your loan application was not approved. The decision was based on several factors, including the presence of a checking account, the 18\u2011month loan term you requested, a savings balance of less than 100\u202fDM, a checking account balance that is negative, and the fact that you currently rent your housing. You have the right to request a more detailed explanation and a copy of the information used in this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.42406678199768066,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.22165744006633759,
+        "feature_value": 18.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.1506655365228653,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.13707885146141052,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "housing_rent",
+        "shap_value": 0.11682567745447159,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 16,
+    "notice": "We regret to inform you that your loan application was not approved.  In making this decision we considered several factors, including the presence of a checking account, the 16\u2011month loan term you requested, a savings balance that is below 100\u202fDM, the fact that you do not own your housing, and your current unemployment status.  These items together did not meet our criteria for approval at this time.  You have the right to request a more detailed explanation and a copy of the information used in this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5463365316390991,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.2656903564929962,
+        "feature_value": 16.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.1369708776473999,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "housing_own",
+        "shap_value": 0.1200101375579834,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_unemployed",
+        "shap_value": 0.07778232544660568,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 23,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including the short length of your current employment (less than one year), the relatively low balance in your checking account, the 24\u2011month loan term you requested, and the high portion of your income that would be required for the loan payments. Additionally, the presence of a checking account with a balance below the required level was considered in the evaluation. You have the right to request a more detailed explanation and a copy of the information used in making this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.37475109100341797,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.3635261058807373,
+        "feature_value": 24.0
+      },
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.2336071878671646,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.2196548879146576,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.18102462589740753,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 24,
+    "notice": "We regret to inform you that your loan application was not approved. Our review considered that you currently have other installment plans with a different lender, you maintain a checking account, and you are renting your residence rather than owning it. Additionally, the 18\u2011month term you requested was taken into account in our decision. If you would like further clarification or a copy of the information used to make this decision, you may request it in writing, as provided by law.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.4461837410926819,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.3174973428249359,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "housing_rent",
+        "shap_value": 0.22526559233665466,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.1801607757806778,
+        "feature_value": 18.0
+      },
+      {
+        "feature": "housing_own",
+        "shap_value": 0.16761356592178345,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 25,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including the presence of a checking account, the absence of a critical credit history, a savings account balance that is below the required minimum, your current unemployment status, and the requested loan term of 18 months. If you would like further clarification or a copy of the information used in making this decision, you may request it in writing, as provided by law.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.43744564056396484,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.15664225816726685,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.1411767601966858,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "employment_since_unemployed",
+        "shap_value": 0.11808411777019501,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.09247235953807831,
+        "feature_value": 18.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 27,
+    "notice": "We regret to inform you that your application for credit was not approved. The decision was based on the size of the credit amount you requested, the fact that you have been employed for less than one year, the presence of other installment obligations you hold with another lender, and the lack of owned real estate. Additionally, having only a checking account was considered in the evaluation. You have the right to request further clarification of this decision and to obtain a copy of the information used in making it, as provided by law.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.4926348030567169,
+        "feature_value": 683.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.36451342701911926,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.34157341718673706,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.23614053428173065,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_real estate",
+        "shap_value": 0.14931504428386688,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 28,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including your employment history of less than one year, the amount of credit you requested, and the lack of identifiable property or home ownership to secure the loan, as well as the 24\u2011month repayment term you selected. If you would like further clarification or a copy of the information used in making this decision, you may request it in writing in accordance with the Equal Credit Opportunity Act.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.48763829469680786,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.33130988478660583,
+        "feature_value": 5103.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.17933450639247894,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "housing_own",
+        "shap_value": 0.1157231554389,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.09388365596532822,
+        "feature_value": 24.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 31,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including that you currently have a checking account but do not own real estate, you do not have an established credit history, you have two dependents, and your savings account balance is below 100\u202fDM. These items together did not satisfy our lending criteria for this product. Under the Equal Credit Opportunity Act, you may request a further explanation and a copy of the information used in making this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.4078080654144287,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_real estate",
+        "shap_value": 0.2086968719959259,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.14603400230407715,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "num_dependents",
+        "shap_value": 0.10985857993364334,
+        "feature_value": 2.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.08454887568950653,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 32,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including the absence of a sufficient credit history, the intended use of the loan for furniture or equipment, and the fact that you currently rent and do not own your residence. Additionally, your savings account balance is below the amount we consider necessary for this type of loan. You have the right to request further clarification and to receive a copy of the information we used in making this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.15462042391300201,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_furniture/equipment",
+        "shap_value": 0.1336558610200882,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "housing_rent",
+        "shap_value": 0.12803278863430023,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "housing_own",
+        "shap_value": 0.10358401387929916,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.1018141433596611,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 33,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the size of the credit you requested (15,672\u202fDM) and the length of the repayment period you selected (48\u202fmonths), which together exceed the risk parameters we apply. Additionally, while you have a checking account, your savings balance is below 100\u202fDM and the overall savings history does not meet our minimum requirements for this type of loan. Under the Equal Credit Opportunity Act, you may request a further explanation of this decision and a copy of the information we used in making it.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 1.0881478786468506,
+        "feature_value": 15672.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.5082349181175232,
+        "feature_value": 48.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.43818989396095276,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.22505125403404236,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_unknown/no savings",
+        "shap_value": 0.11034532636404037,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 35,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including the 24\u2011month loan term you requested, the presence of other installment plans you have with another lender, and the fact that the balance in your checking account is below zero. Additionally, the portion of your income that would be required for loan payments is at the higher end of our range. You have the right to request a more detailed explanation and a copy of the information used in this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.4337020218372345,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.4125064015388489,
+        "feature_value": 24.0
+      },
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.37117499113082886,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.25227636098861694,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.19313733279705048,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 36,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors: you have a checking account, the loan term you requested is 24 months, your checking account balance is below 0\u202fDM, your savings account balance is below 100\u202fDM, and you do not have a critical credit history. You have the right to request further clarification and to receive a copy of the information used in this decision in accordance with the Equal Credit Opportunity Act.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.42839816212654114,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.2994130253791809,
+        "feature_value": 24.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.2742982804775238,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.2155115008354187,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.18215592205524445,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 37,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors: the requested loan term of 48 months, the presence of a checking account with a negative balance, an employment history of less than one year, and an installment rate that represents a relatively high portion of your income. If you would like further clarification or a copy of the information used in making this decision, you may request it in writing in accordance with your rights under the Equal Credit Opportunity Act.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "duration",
+        "shap_value": 0.736278772354126,
+        "feature_value": 48.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.4470881521701813,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.23622079193592072,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.22309356927871704,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.12748408317565918,
+        "feature_value": 3.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 39,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the size of the credit you requested (15,857\u202fDM), the length of the loan term you selected (36 months), and the fact that your savings balance is below 100\u202fDM. Additionally, while you have a checking account, your current unemployment status was also considered in the evaluation. Under the Equal Credit Opportunity Act, you may request a further explanation of this decision and obtain a copy of the information used in making it.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.8943209648132324,
+        "feature_value": 15857.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.48700085282325745,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.4453149437904358,
+        "feature_value": 36.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.15221144258975983,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "employment_since_unemployed",
+        "shap_value": 0.13351954519748688,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 40,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including that you currently have a checking account, the loan is requested for the purchase of a new car, you do not have a critical credit history, your checking account balance is below the required amount, and the portion of your income allocated to loan payments is relatively high. Under the Equal Credit Opportunity Act, you may request a further explanation of this decision and a copy of the information used in making it.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.44185954332351685,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.17072273790836334,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.14851383864879608,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.11844252794981003,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.08927451074123383,
+        "feature_value": 3.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 41,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the length of the loan you requested (48 months), the fact that you have a checking account with us, a savings balance that is below the required amount, an installment rate that is at the highest level of your income percentage, and the presence of two existing credit accounts with our institution. You have the right to request further clarification of this decision and to obtain a copy of the information used in making it, as provided by law.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "duration",
+        "shap_value": 0.7817454934120178,
+        "feature_value": 48.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5623282790184021,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.1895483285188675,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.14421921968460083,
+        "feature_value": 4.0
+      },
+      {
+        "feature": "existing_credits",
+        "shap_value": 0.10709220170974731,
+        "feature_value": 2.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 42,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including that you currently have a checking account but do not have a critical credit history, the purpose of the loan being for furniture or equipment, the requested amount of 4,351\u202fDM, and the fact that you do not own real estate. If you would like further clarification or a copy of the information used in making this decision, you may request it in writing in accordance with the Equal Credit Opportunity Act.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.31786948442459106,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.1377687156200409,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_furniture/equipment",
+        "shap_value": 0.13114440441131592,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.09217873960733414,
+        "feature_value": 4351.0
+      },
+      {
+        "feature": "property_real estate",
+        "shap_value": 0.06151996925473213,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 43,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the size of the credit you requested, the fact that you already have other installment plans with a different lender, and that the loan was intended for a new car purchase. In addition, we do not have information about any property you own, and the proposed repayment period of 60 months was also considered. Under the Equal Credit Opportunity Act, you have the right to request a further explanation of this decision and to obtain a copy of the information used in evaluating your application.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.9316015243530273,
+        "feature_value": 13756.0
+      },
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.6501494646072388,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.17614947259426117,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.12996512651443481,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.10761632770299911,
+        "feature_value": 60.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 44,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the amount you requested (1275\u202fDM), the 24\u2011month repayment period you selected, the fact that the loan purpose is not for a used\u2011car purchase, and the presence of two existing credit accounts with our bank. Additionally, having a checking account with us was considered in the overall assessment. If you would like further clarification or a copy of the information used in this decision, you may request it in writing in accordance with the Equal Credit Opportunity Act.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5177981853485107,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.2513599693775177,
+        "feature_value": 1275.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.22204066812992096,
+        "feature_value": 24.0
+      },
+      {
+        "feature": "purpose_car (used)",
+        "shap_value": 0.05025114864110947,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "existing_credits",
+        "shap_value": 0.04592491313815117,
+        "feature_value": 2.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 46,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including a checking account balance that is below zero, a relatively short employment history of less than one year, and the absence of a established credit history. In addition, the purpose of the loan\u2014purchasing a new car\u2014was also considered in the evaluation. You have the right to request a further explanation of this decision and to obtain a copy of the information used in making it, as provided by law.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5131789445877075,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.2720591425895691,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.17442287504673004,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.17217445373535156,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.1602030247449875,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 47,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors: you currently have a checking account but no credit history or only fully paid\u2011off credit accounts, the loan term you requested is 30 months, the projected installment would represent a high portion of your income, and you are a renter rather than a homeowner. If you would like further clarification or a copy of the information used in making this decision, you may request it in writing in accordance with the Equal Credit Opportunity Act.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.35009512305259705,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_no credits/all paid",
+        "shap_value": 0.3325757682323456,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.2082785665988922,
+        "feature_value": 30.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.15372759103775024,
+        "feature_value": 4.0
+      },
+      {
+        "feature": "housing_rent",
+        "shap_value": 0.15211458504199982,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 48,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including that your checking account has a negative balance, the amount of credit you requested exceeds the amount we can extend at this time, and you do not have an established credit history or real\u2011estate ownership to support the loan. If you would like further details or a copy of the information used in making this decision, you may request it in writing.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5014464855194092,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.26653653383255005,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.2516423761844635,
+        "feature_value": 1262.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.1426263004541397,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_real estate",
+        "shap_value": 0.13065767288208008,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 52,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the fact that, while you have a checking account, the balance in that account is below zero, you do not have any property listed or the information is unavailable, and the balance in your savings account is less than 100\u202fDM. Additionally, we note that you do have a savings account on record. If you would like further clarification or a copy of the information used in making this decision, you may request it in writing, as provided by law.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.44743597507476807,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.1675557792186737,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.1471540927886963,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.10692773759365082,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_unknown/no savings",
+        "shap_value": 0.054811686277389526,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 53,
+    "notice": "Dear Applicant,\n\nWe regret to inform you that your loan application was not approved. The decision was based on the length of the loan you requested (48 months), the fact that you have a checking account, and the relatively low balance in your savings account (under 100\u202fDM). Additionally, we noted that you have an existing savings account and that the purpose of the loan is not for a used\u2011car purchase.  \n\nIf you would like a more detailed explanation or a copy of the information used in this decision, you may request it in writing.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "duration",
+        "shap_value": 0.697240948677063,
+        "feature_value": 48.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.3515963852405548,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.11955790221691132,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_unknown/no savings",
+        "shap_value": 0.08319348096847534,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (used)",
+        "shap_value": 0.0643475130200386,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 54,
+    "notice": "We regret to inform you that your loan application was not approved. Our review considered that you currently have a checking account with a negative balance, you are unemployed, you do not have an established credit history, and the loan term you requested is 18 months. These factors together did not meet our lending criteria for this product. You have the right to request further clarification and to obtain a copy of the information used in making this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5455130338668823,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.2829756736755371,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "employment_since_unemployed",
+        "shap_value": 0.21613912284374237,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.16563332080841064,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.15581335127353668,
+        "feature_value": 18.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 55,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the fact that your checking account balance is negative, you currently have a checking account, you do not have a critical credit history, and your length of employment falls outside the 4\u2011 to 7\u2011year range. While your existing credit accounts have been paid on time, the other factors led to this outcome. Under the Equal Credit Opportunity Act, you have the right to request further clarification and a copy of the information used in making this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.32678329944610596,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.3163436949253082,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.11720940470695496,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_4-7 years",
+        "shap_value": 0.054934047162532806,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_existing credits paid duly",
+        "shap_value": 0.04621328040957451,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 58,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the following factors: you have a checking account but no owned or verifiable property; you do not have a documented credit history; the portion of your income allocated to loan payments is at the highest level on our scale; and your savings account balance is less than 100\u202fDM. You have the right to request a more detailed explanation of this decision and to obtain a copy of the information we used in evaluating your application.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.325617253780365,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.2322014421224594,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.19689352810382843,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.18397313356399536,
+        "feature_value": 4.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.16434869170188904,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 59,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the length of the loan you requested (36 months), the fact that you have a checking account with a negative balance, a savings account balance under\u202f100\u202fDM, and an installment rate that represents a relatively high portion of your income. If you would like more details or a copy of the information used in this decision, you may request it in writing.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "duration",
+        "shap_value": 0.5393844246864319,
+        "feature_value": 36.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5132234692573547,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.302139550447464,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.1962020993232727,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.19051814079284668,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 60,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including the amount of credit you requested, the fact that you have a checking account, the absence of a critical credit history, the loan purpose not being for a used car, and an employment duration that falls outside the 4\u2011 to 7\u2011year range. You have the right to request further clarification of this decision and to obtain a copy of the information used in making it, as provided by law.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.4156435430049896,
+        "feature_value": 745.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.4155280292034149,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.08204787224531174,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (used)",
+        "shap_value": 0.047441307455301285,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_4-7 years",
+        "shap_value": 0.03773131221532822,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 61,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the information we have on file, which shows that you maintain a checking account with a balance that is below the required amount, you do not have any recorded property ownership, the loan request is for a new car, and there is no critical credit history associated with your profile. These factors together did not meet our lending criteria for this type of loan. You have the right to request a further explanation of this decision and to obtain a copy of the information we used in making it, as provided by law.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5351847410202026,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.35473543405532837,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.19834977388381958,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.1975470781326294,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.19489189982414246,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 62,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the fact that your checking account has a negative balance, the loan term you requested is 30 months, and you currently rent your residence. Additionally, the presence of a savings account was considered in the evaluation. Under the Equal Credit Opportunity Act, you may request a further explanation and a copy of the information used in this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.42307838797569275,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.2495134472846985,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.2200220823287964,
+        "feature_value": 30.0
+      },
+      {
+        "feature": "housing_rent",
+        "shap_value": 0.10445138067007065,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_unknown/no savings",
+        "shap_value": 0.06111875921487808,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 63,
+    "notice": "We regret to inform you that your application for a loan of 11,328\u202fDM was not approved. The decision was based on the size of the requested credit amount, the fact that you have a checking account, the 24\u2011month loan term you selected, a savings balance that is below 100\u202fDM, and the presence of other installment obligations with another lender or store. You have the right to request further clarification of this decision and to obtain a copy of the information used in making it, as provided by law.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.9170568585395813,
+        "feature_value": 11328.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.2966190576553345,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.28787726163864136,
+        "feature_value": 24.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.2369396686553955,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.1445184350013733,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 65,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including that you have been employed for less than one year, the loan is requested for a new car, you do not have an established credit history, and your savings account balance is below the required amount. Additionally, the presence of a checking account was considered in the evaluation. Under the Equal Credit Opportunity Act, you have the right to request further clarification and to receive a copy of the information used in making this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.46483173966407776,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.2782071530818939,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.20578981935977936,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.13488252460956573,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.10671231895685196,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 68,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the size of the credit you requested (18,424\u202fDM), the length of the repayment period you selected (48 months), the fact that you have no existing credit accounts or only fully paid accounts, and the low balance in your savings account (under 100\u202fDM). While you do have a checking account, the other factors together did not meet our lending criteria. You have the right to request a more detailed explanation and a copy of the information used in this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.8363819718360901,
+        "feature_value": 18424.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.3246840238571167,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.32056349515914917,
+        "feature_value": 48.0
+      },
+      {
+        "feature": "credit_history_no credits/all paid",
+        "shap_value": 0.21116043627262115,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.18913891911506653,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 69,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the length of the loan you requested (36 months), the fact that you have a checking account but no owned or verifiable property, your employment history of less than one year, and the amount of credit you sought (4,795\u202fDM). Under the Equal Credit Opportunity Act you may request a further explanation and a copy of the information used in making this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "duration",
+        "shap_value": 0.44149050116539,
+        "feature_value": 36.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.3520161807537079,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.26007741689682007,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.2396422177553177,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.150098517537117,
+        "feature_value": 4795.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 70,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including the amount you requested, which exceeds the credit limits we can extend at this time, as well as your current unemployment status and the fact that you do not own real estate. Additionally, the purpose of the loan (a new car) and the presence of only a checking account were also considered in our evaluation. Under the Equal Credit Opportunity Act, you have the right to request a further explanation of this decision and to receive a copy of the information we used in making it.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 1.0568084716796875,
+        "feature_value": 14555.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.1986849159002304,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_unemployed",
+        "shap_value": 0.15717528760433197,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.15193617343902588,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "property_real estate",
+        "shap_value": 0.11353570967912674,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 71,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including that you have a checking account, have been employed for less than one year, do not have a critical credit history, and currently rent your housing rather than own it. Under the Equal Credit Opportunity Act, you may request a further explanation of this decision and a copy of the information used in making it.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.33013755083084106,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.19181852042675018,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.15223334729671478,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "housing_rent",
+        "shap_value": 0.1496969610452652,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "housing_own",
+        "shap_value": 0.11142755299806595,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 73,
+    "notice": "We regret to inform you that your application for credit was not approved. The decision was based on the size of the credit amount you requested, the fact that you have a checking account but do not own real estate, and the lack of a documented credit history and a registered telephone number. Under the Equal Credit Opportunity Act, you may request a further explanation of this decision and a copy of the information used in making it.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.7250519394874573,
+        "feature_value": 754.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5276672840118408,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_real estate",
+        "shap_value": 0.154056578874588,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.14534243941307068,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "telephone_yes, registered",
+        "shap_value": 0.06996189057826996,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 74,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including your employment history of less than one year, the presence of only a checking account, the lack of an established credit history, not owning real estate, and a savings balance that is below the required minimum. You have the right to request a more detailed explanation and a copy of the information used in this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.4157831370830536,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.35896438360214233,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.14888878166675568,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_real estate",
+        "shap_value": 0.09759575128555298,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.09546656161546707,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 76,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including your employment history of less than one year, the presence of a checking account, the intended use of the loan for a new car, the lack of a critical credit history, and a relatively high installment rate relative to your income. You have the right to request further clarification of this decision and to obtain a copy of the information used in making it, as provided by law.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.3268950879573822,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.28965261578559875,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.1502416729927063,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.12909260392189026,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.10643687844276428,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 78,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including the presence of a checking account combined with a balance that is below the required amount, a savings account balance under the minimum threshold, the requested loan term of 24 months, and existing installment obligations with another lender. These elements together did not meet our lending criteria for this product. You have the right to request a more detailed explanation and a copy of the information used in making this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.4450298547744751,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.42789018154144287,
+        "feature_value": 24.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.22530128061771393,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.21060281991958618,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.20491482317447662,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 79,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including your employment history of less than one year, the requested loan term of 18 months, and the absence of a critical credit history. Additionally, your savings account balance is below the required threshold and the portion of your income allocated to loan installments is at the higher end of our scale. You have the right to request further clarification and a copy of the information used in this decision in accordance with the Equal Credit Opportunity Act.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.3675038814544678,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.2815103828907013,
+        "feature_value": 18.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.14234407246112823,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.11522873491048813,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.09457820653915405,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 80,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including the requested loan term of 36 months, the presence of a checking account with a balance below zero, a high installment rate relative to your income, and the lack of a critical credit history. If you would like further clarification or a copy of the information used in making this decision, you may request it in writing, as provided by law.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "duration",
+        "shap_value": 0.6072765588760376,
+        "feature_value": 36.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5645230412483215,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.4007948637008667,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.16583918035030365,
+        "feature_value": 4.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.141413152217865,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 82,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including the presence of a checking account, the requested loan term of 36 months, the loan amount of 8,086\u202fDM, the lack of a critical credit history, and the purpose of the loan being a new car. If you would like further clarification or a copy of the information used in making this decision, you may request it in writing in accordance with the Equal Credit Opportunity Act.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.3149058222770691,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.2776613235473633,
+        "feature_value": 36.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.2165282964706421,
+        "feature_value": 8086.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.12563954293727875,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.10917098820209503,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 85,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including existing installment obligations with another lender, your current unemployment status, a savings balance below the required minimum, the presence of a co\u2011applicant or guarantor, and the lack of identifiable property to secure the loan. You have the right to request further clarification of this decision and to obtain a copy of the information used in making it, as provided by law.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.56828773021698,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_unemployed",
+        "shap_value": 0.1134127527475357,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.10993789881467819,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "other_debtors_none",
+        "shap_value": 0.10491533577442169,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.10162783414125443,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 86,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the length of the loan you requested (18 months), the fact that you have a checking account, the presence of two dependents, a high portion of your income already allocated to existing payments, and the lack of a registered telephone number on your file. You have the right to request further clarification of this decision and to obtain a copy of the information we used in making it, as provided by law.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "duration",
+        "shap_value": 0.27921977639198303,
+        "feature_value": 18.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.26677635312080383,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "num_dependents",
+        "shap_value": 0.11680581420660019,
+        "feature_value": 2.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.10241899639368057,
+        "feature_value": 4.0
+      },
+      {
+        "feature": "telephone_yes, registered",
+        "shap_value": 0.08510017395019531,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 88,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including the presence of other installment plans you have with a different lender, a checking account with a balance that is below zero, and the amount of credit you requested (626\u202fDM). In addition, the portion of your income that would be required for the loan payments is at the highest level on our scale. Under the Equal Credit Opportunity Act you may request a further explanation of this decision and a copy of the information we used in making it.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.34488049149513245,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.32532626390457153,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.21225544810295105,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.14972245693206787,
+        "feature_value": 626.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.1255536675453186,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 89,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including a history of delayed payments on previous credit obligations, a limited credit history, a high portion of your income already allocated to existing installment payments, and the absence of identifiable property to secure the loan. Additionally, the requested loan term of 24 months contributed to the overall assessment. Under the Equal Credit Opportunity Act, you have the right to request a further explanation of this decision and to obtain a copy of the information used in evaluating your application.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "credit_history_delay in past",
+        "shap_value": 0.33978262543678284,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.25297680497169495,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.21530669927597046,
+        "feature_value": 4.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.20117847621440887,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.15404294431209564,
+        "feature_value": 24.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 90,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including that you currently have only a checking account, the requested loan term of 60 months, and that the loan is intended for education expenses. Additionally, we do not have information about any property you own, and the proposed monthly payment represents a relatively high portion of your income. You have the right to request a more detailed explanation and a copy of the information used in this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.51859050989151,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.510094165802002,
+        "feature_value": 60.0
+      },
+      {
+        "feature": "purpose_education",
+        "shap_value": 0.38712066411972046,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.28244200348854065,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.26076841354370117,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 91,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including the amount of credit you requested, the fact that your checking account balance is negative, and that you do not have an established credit history or real\u2011estate ownership. Because you do have a checking account, that was also considered in the evaluation. Under the Equal Credit Opportunity Act you may request a further explanation of this decision and a copy of the information used to make it.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5776293277740479,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.4434630274772644,
+        "feature_value": 1275.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.30615144968032837,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.1772422045469284,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_real estate",
+        "shap_value": 0.11506006866693497,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 92,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including existing installment plans with another lender, the presence of a checking account, a limited credit history, the absence of real\u2011estate ownership, and your current unemployment status. If you would like further clarification or a copy of the information used in making this decision, you may request it in writing in accordance with your rights under the Equal Credit Opportunity Act.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.2549656927585602,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.20427316427230835,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.14743854105472565,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_real estate",
+        "shap_value": 0.14515282213687897,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_unemployed",
+        "shap_value": 0.11805499345064163,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 93,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors: the amount you requested (10,875\u202fDM) and the 36\u2011month repayment term exceed the limits we can extend at this time; you do not have a critical credit history with us; your savings account balance is below 100\u202fDM; and the loan purpose you indicated is for a new car. You have the right to request further clarification of this decision and to obtain a copy of the information we used in making it, as provided by law.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.6426755785942078,
+        "feature_value": 10875.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.2041480541229248,
+        "feature_value": 36.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.1987181156873703,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.18409013748168945,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.13445371389389038,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 95,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors: the requested loan term of 21 months, a limited credit history, the intended use of the loan for furniture or equipment, the fact that you already have two credit accounts with us, and a savings balance that is below 100\u202fDM. You have the right to request a more detailed explanation and to obtain a copy of the information that was considered in making this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "duration",
+        "shap_value": 0.3209347128868103,
+        "feature_value": 21.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.25488945841789246,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_furniture/equipment",
+        "shap_value": 0.13709396123886108,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "existing_credits",
+        "shap_value": 0.12866993248462677,
+        "feature_value": 2.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.12748055160045624,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 96,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the size of the loan you requested, the 45\u2011month repayment term, the limited credit history you have (no existing credit balances or only fully paid accounts), and the low balance in your savings account. Additionally, the fact that you only have a checking account and no other supporting accounts was also considered. You have the right to request a further explanation and a copy of the information used in this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.5864521265029907,
+        "feature_value": 11816.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.4207550585269928,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.32704177498817444,
+        "feature_value": 45.0
+      },
+      {
+        "feature": "credit_history_no credits/all paid",
+        "shap_value": 0.265537291765213,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.22944922745227814,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 97,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including that you currently have only a checking account and a savings balance of less than 100\u202fDM, the requested loan term of 27\u202fmonths, the absence of a critical credit history, and an installment rate that represents a higher portion of your income. These items together did not meet our lending criteria for this loan. You have the right to request further clarification and a copy of the information used in this decision in accordance with the Equal Credit Opportunity Act.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.4804423451423645,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.2936408817768097,
+        "feature_value": 27.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.2500126361846924,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.16766980290412903,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.16047419607639313,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 98,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including that you currently do not have employment, you are seeking a loan for a new car, you rent your housing, you do not have an established credit history, and you maintain a checking account. If you would like additional details or a copy of the information used in making this decision, you may request them in writing, as provided by law.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.2325192093849182,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_unemployed",
+        "shap_value": 0.20949965715408325,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.1960732787847519,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "housing_rent",
+        "shap_value": 0.13069219887256622,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.07068168371915817,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 103,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including existing installment obligations with another lender, a limited credit history, the 18\u2011month repayment term you requested, a savings balance below the required amount, and the fact that you have two dependents. You have the right to request a more detailed explanation and a copy of the information used in making this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.5208975076675415,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.2315959632396698,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.19511575996875763,
+        "feature_value": 18.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.17164286971092224,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "num_dependents",
+        "shap_value": 0.13027650117874146,
+        "feature_value": 2.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 105,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the length of the loan you requested (24\u202fmonths), the absence of a critical credit history, and the low balances in both your checking account (below 0\u202fDM) and your savings account (below 100\u202fDM). While you do have a checking account, the overall account balances did not meet our lending criteria. You have the right to request further clarification and a copy of the information used in this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.42260897159576416,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.40985313057899475,
+        "feature_value": 24.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.19558794796466827,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.18853966891765594,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.18777793645858765,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 108,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the amount of credit you requested, the fact that you do not own real estate, the limited length of your credit history, and the balance in your savings account being below the required level. While you do have a checking account, the other factors outweighed this in the evaluation. You have the right to request a further explanation and a copy of the information used in this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5259154438972473,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.268161803483963,
+        "feature_value": 1225.0
+      },
+      {
+        "feature": "property_real estate",
+        "shap_value": 0.15106680989265442,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.11509007215499878,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.10958679020404816,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 109,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including the fact that you currently have other installment plans with a different lender, that the loan you requested is for a new car, and that the repayment period you selected is 18 months. In addition, your savings account balance is below the required minimum, and the loan purpose does not involve a used\u2011car purchase. Under the Equal Credit Opportunity Act, you have the right to request a further explanation of this decision and to obtain a copy of the information used in evaluating your application.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.7966301441192627,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.31346771121025085,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.2858182489871979,
+        "feature_value": 18.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.11521144956350327,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "purpose_car (used)",
+        "shap_value": 0.07320606708526611,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 110,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the fact that you currently have other installment obligations with a different lender, the amount you requested exceeds the amount we are able to extend, and the loan term you selected is longer than our standard offering. In addition, the purpose of the loan (a new car) and the lack of identifiable property to secure the loan were also considered. You have the right to request a more detailed explanation and a copy of the information used in this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.7307944297790527,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.5631961822509766,
+        "feature_value": 10127.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.212394118309021,
+        "feature_value": 48.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.1736881583929062,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.15424096584320068,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 112,
+    "notice": "We regret to inform you that your loan application was not approved. Our review considered that you have a checking account but no existing credit lines or only fully paid credits, you requested a 30\u2011month loan term, your savings balance is below 100\u202fDM, and the loan amount you requested is 4,221\u202fDM. These factors together did not meet our lending criteria for this product. You have the right to request further clarification and a copy of the information used in this decision under the Equal Credit Opportunity Act.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.3978084921836853,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_no credits/all paid",
+        "shap_value": 0.3081921637058258,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.22125139832496643,
+        "feature_value": 30.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.16562870144844055,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.16178598999977112,
+        "feature_value": 4221.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 115,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the fact that you currently have only a checking account and no open credit lines or that all existing credits are fully paid, your checking account balance is below the required minimum, you do not have a documented critical credit history, and the portion of your income allocated to installment payments is at the higher end of our scale. These factors together did not meet our lending criteria at this time. You have the right to request further clarification and to receive a copy of the information used in making this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5484240055084229,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_no credits/all paid",
+        "shap_value": 0.3437826335430145,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.2710990905761719,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.17212365567684174,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.1422378271818161,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 116,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including the length of the loan you requested (45 months), the fact that you have a checking account, that you currently rent your housing, the high portion of your income that would be required for loan payments (installment rate of 4 on a 1\u20114 scale), and the presence of a co\u2011applicant or guarantor on the application. If you would like further clarification or a copy of the information used in making this decision, you may request it in writing, as provided by law.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "duration",
+        "shap_value": 0.48736655712127686,
+        "feature_value": 45.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.3045567274093628,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "housing_rent",
+        "shap_value": 0.18606916069984436,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.11174031347036362,
+        "feature_value": 4.0
+      },
+      {
+        "feature": "other_debtors_none",
+        "shap_value": 0.11050029844045639,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 117,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including existing installment obligations with another lender, the 18\u2011month repayment period you requested, the absence of a established credit history, the lack of identifiable property to secure the loan, and a savings balance that is below the required minimum. You have the right to request a more detailed explanation of this decision and to obtain a copy of the information we used in evaluating your application.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.5819103717803955,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.26327750086784363,
+        "feature_value": 18.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.23488575220108032,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.19360239803791046,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.13827106356620789,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 120,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the fact that you have a checking account but no owned or verifiable property, the loan term you requested is 24 months, you do not have a critical credit history, and your savings account balance is below the required amount. These factors together did not meet our lending criteria for this loan. You have the right to request further clarification and to receive a copy of the information used in making this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5454864501953125,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.22940972447395325,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.18723168969154358,
+        "feature_value": 24.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.15041999518871307,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.11875619739294052,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 121,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the fact that you have a checking account, that the loan is requested for a new car, and that the balances in both your checking and savings accounts are below the required minimum amounts (checking balance below 0\u202fDM and savings balance below 100\u202fDM). Additionally, the purpose of the loan being a new\u2011car purchase rather than a used\u2011car purchase was also considered. You have the right to request a more detailed explanation and a copy of the information used in this decision under the Equal Credit Opportunity Act.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.3933508098125458,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.20685727894306183,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.09970127046108246,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.09594913572072983,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "purpose_car (used)",
+        "shap_value": 0.04904983565211296,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 122,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including the short 27\u2011month loan term you requested, the low balance in your checking account (which is currently below 0\u202fDM), the low balance in your savings account (under 100\u202fDM), and the absence of a documented credit history. Additionally, while you do have a checking account, the overall profile did not meet our lending criteria at this time. You have the right to request a more detailed explanation and a copy of the information used in this decision in accordance with the Equal Credit Opportunity Act.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5270243883132935,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.3881434500217438,
+        "feature_value": 27.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.28487545251846313,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.19617004692554474,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.1621992439031601,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 124,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including the fact that you have an active checking account, you are currently obligated to other installment plans, the requested loan term of 24 months, a savings account balance that is below the required minimum, and the proportion of your income that would be required for loan payments. These items together did not meet our lending criteria for this product. You have the right to request a more detailed explanation and a copy of the information used in making this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.3781791925430298,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.3100482225418091,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.19441598653793335,
+        "feature_value": 24.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.19283896684646606,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.13735198974609375,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 127,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including the presence of a checking account, a savings account balance that is below 100\u202fDM, the loan purpose not being a used\u2011car purchase, the existence of a known savings account, and the requested loan term of 21\u202fmonths. If you would like further clarification or a copy of the information used in making this decision, you may request it in writing, as provided by law.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.49855250120162964,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.15976528823375702,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "purpose_car (used)",
+        "shap_value": 0.07603157311677933,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_unknown/no savings",
+        "shap_value": 0.07408812642097473,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.06634611636400223,
+        "feature_value": 21.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 128,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including that you currently have only a checking account, you are renting your residence, you requested a 24\u2011month loan term, you do not have a critical credit history, and we have no record of property ownership associated with your application. If you would like further clarification or a copy of the information used in making this decision, you may request it in writing, as provided by law.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.38571593165397644,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "housing_rent",
+        "shap_value": 0.14789652824401855,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.10386338829994202,
+        "feature_value": 24.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.10152716934680939,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.09539055824279785,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 129,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including the absence of owned or documented property, a limited credit history, a checking account balance that is below the required minimum, and a relatively high portion of your income already allocated to existing installment payments. These items together did not meet our lending criteria at this time. You have the right to request a more detailed explanation and a copy of the information used in this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5072978734970093,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.3926529586315155,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.18647746741771698,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.1790035218000412,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.10746190696954727,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 130,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the amount you requested, which exceeds the level we can currently extend, as well as the presence of other installment obligations you have with a different lender. In addition, the 36\u2011month repayment period you selected, your low savings balance, and an employment history that falls outside the 4\u2011 to 7\u2011year range were also factors. Under the Equal Credit Opportunity Act, you may request a further explanation of this decision and obtain a copy of the information used in making it.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.5879292488098145,
+        "feature_value": 8133.0
+      },
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.533521294593811,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.2646736800670624,
+        "feature_value": 36.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.11074574291706085,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "employment_since_4-7 years",
+        "shap_value": 0.09180227667093277,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 131,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including that you have a checking account, the loan purpose being a new car, the absence of a critical credit history, a higher installment rate, and the requested 18\u2011month loan term. You have the right to request a further explanation and a copy of the information used in this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.1887967437505722,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.17100393772125244,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.15523472428321838,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.1456306129693985,
+        "feature_value": 4.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.1426723748445511,
+        "feature_value": 18.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 132,
+    "notice": "We regret to inform you that your application for credit in the amount of\u202f\u20ac11,760 was not approved. The decision was based on the size of the requested credit, the fact that you have a checking account but no owned or verifiable property, and that the loan purpose was identified as education. Additionally, while you have a savings account, these factors together did not meet our credit criteria for this request. Under the Equal Credit Opportunity Act, you may request a further explanation of this decision and a copy of the information used in making it.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.6679695248603821,
+        "feature_value": 11760.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.49360859394073486,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.33404889702796936,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "purpose_education",
+        "shap_value": 0.2710559368133545,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_unknown/no savings",
+        "shap_value": 0.11849994957447052,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 133,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the fact that the loan was requested for educational purposes, you currently have a checking account with a balance below 0\u202fDM, you have other installment obligations with another lender or store, and the amount you requested (1200\u202fDM) exceeds the amount we are able to extend under these circumstances.  \n\nIf you would like further clarification or a copy of the information used in making this decision, you may request it in writing, as provided by law.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "purpose_education",
+        "shap_value": 0.4225834310054779,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.39887115359306335,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.34466370940208435,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.29950231313705444,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.24276316165924072,
+        "feature_value": 1200.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 134,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the fact that your checking account balance is negative, you have an existing checking account, the amount you requested exceeds the amount we can extend at this time, you are currently obligated to other installment payments with a different lender, and you do not have an established credit history. Under the Equal Credit Opportunity Act you may request a further explanation of this decision and a copy of the information we used in making it.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.358564555644989,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.35394760966300964,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.3173215091228485,
+        "feature_value": 1358.0
+      },
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.24461272358894348,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.1827763468027115,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 135,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including a checking account balance that is below the required minimum, a relatively short employment history of less than one year, the intended use of the loan for a new car, and the absence of a critical credit history. These items together did not meet our lending criteria at this time. You have the right to request further clarification and to receive a copy of the information used in making this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.4519541561603546,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.19251404702663422,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.19096580147743225,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.1564040184020996,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.1363791674375534,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 138,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the fact that, although you have a checking account, the balance in that account is negative, the amount you are requesting (4,272\u202fDM) exceeds the available balances, and your savings account balance is less than 100\u202fDM. Additionally, the purpose you indicated for the loan does not fall under a used\u2011car purchase, which is a factor we consider. Under the Equal Credit Opportunity Act, you have the right to request a further explanation and a copy of the information used in making this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.3742421865463257,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.20455220341682434,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.1284446269273758,
+        "feature_value": 4272.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.11687971651554108,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "purpose_car (used)",
+        "shap_value": 0.05725778266787529,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 139,
+    "notice": "We regret to inform you that your loan application was not approved. Our review considered several factors, including that your checking account balance is below zero, you do not have an established credit history, the amount you requested ($1,289) exceeds the level we can extend at this time, and you do not own real estate. These elements together led to the decision not to extend credit. Under the Equal Credit Opportunity Act, you may request a further explanation and a copy of the information used in this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.23847828805446625,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.1772153377532959,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.14586934447288513,
+        "feature_value": 1289.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.1429457664489746,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "property_real estate",
+        "shap_value": 0.105293869972229,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 140,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors: you have a checking account but no owned or verifiable property; you currently have other installment obligations with another lender or store; the balance in your checking account is below the required amount; and the loan term you requested is for 24 months. Under the Equal Credit Opportunity Act, you may request a further explanation of this decision and receive a copy of the information used in evaluating your application.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.3531075716018677,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.28608736395835876,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.25789278745651245,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.17564530670642853,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.15498603880405426,
+        "feature_value": 24.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 141,
+    "notice": "We regret to inform you that your loan application for 10,974\u202fDM was not approved. The decision was based on the size of the requested amount, the 36\u2011month repayment term, the lack of a critical credit history, your current unemployment status, and the fact that the proposed installment would represent a high portion of your income. If you would like further details or a copy of the information used in this decision, you may request it in writing.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 1.144732117652893,
+        "feature_value": 10974.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.4066789448261261,
+        "feature_value": 36.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.19920271635055542,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_unemployed",
+        "shap_value": 0.18324272334575653,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.16183561086654663,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 143,
+    "notice": "We regret to inform you that your loan application was not approved. Our review considered several factors, including that you currently have a checking account, you are servicing other installment plans with a different lender or store, the loan term you requested is 27 months, your savings account balance is less than 100\u202fDM, and your checking account balance is below zero. These items together did not meet our criteria for approval at this time. You have the right to request a further explanation of this decision and to obtain a copy of the information we used in making it, as provided by law.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.416862815618515,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.3456282913684845,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.3273199200630188,
+        "feature_value": 27.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.23595185577869415,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.1452515423297882,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 144,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including that you have a checking account, that you do not have a critical credit history, and that the loan purpose you indicated is for repairs rather than for a radio, television, or a used car. These elements together did not meet our criteria for approval at this time. You have the right to request further clarification and a copy of the information used in making this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.41279420256614685,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.10631114989519119,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_repairs",
+        "shap_value": 0.09835860133171082,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "purpose_radio/TV",
+        "shap_value": 0.060943204909563065,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (used)",
+        "shap_value": 0.05766316130757332,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 145,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including the requested loan amount of 759\u202fDM, a checking account balance that is below zero, and the purpose of the loan being a new car purchase. In addition, we noted that you do not have a critical credit history, which also affected the outcome. You have the right to request a more detailed explanation and a copy of the information used in this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.6110748052597046,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.5372628569602966,
+        "feature_value": 759.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.2827482223510742,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.1916934847831726,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.16299927234649658,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 152,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors: you have been employed for less than one year, you have existing installment obligations with another lender or store, and you maintain a checking account. In addition, the amount you requested (625\u202fDM) and the high portion of your income that would be required for the loan payments (an installment rate of 4 on a 1\u20114 scale) were also considered. Under the Equal Credit Opportunity Act, you have the right to request a further explanation and a copy of the information used in making this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.3557668626308441,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.30118462443351746,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.2599887251853943,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.08809053897857666,
+        "feature_value": 625.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.07804154604673386,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 154,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including your current unemployment status, the absence of a substantial credit history, the fact that you rent your residence, the intended use of the loan for a new car, and that your only banking relationship is a checking account. If you would like additional details or a copy of the information used in making this decision, you may request it in writing.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.4626326262950897,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.1565396785736084,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "employment_since_unemployed",
+        "shap_value": 0.14430786669254303,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.12109505385160446,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "housing_rent",
+        "shap_value": 0.11878476291894913,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 155,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including that you currently have a checking account, the purpose of the loan is to purchase a new car, you do not have a critical credit history, your savings account balance is below 100\u202fDM, and you do not own real estate. You have the right to request further clarification and to receive a copy of the information used in making this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.4292042851448059,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.17242731153964996,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.11694034934043884,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.10734200477600098,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "property_real estate",
+        "shap_value": 0.09526357799768448,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 156,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including the length of the loan term you requested (30 months), a checking account balance that is below the required minimum, the absence of a critical credit history, and a high installment rate relative to your income. While you do have a checking account, the overall combination of these items did not meet our lending criteria. You have the right to request a more detailed explanation and a copy of the information used in this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5030186772346497,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.36026453971862793,
+        "feature_value": 30.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.2962484359741211,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.194808229804039,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.1884051263332367,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 157,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the size of the credit you requested, which exceeds the amount we can currently extend, as well as the high portion of your income that would be needed for the monthly payments. In addition, past delays in repaying other credit obligations, the 48\u2011month loan term you sought, and the absence of a strong credit history were also considered. You have the right to request a further explanation and a copy of the information used in this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.828281044960022,
+        "feature_value": 12749.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.19798436760902405,
+        "feature_value": 4.0
+      },
+      {
+        "feature": "credit_history_delay in past",
+        "shap_value": 0.17169496417045593,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.14925682544708252,
+        "feature_value": 48.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.12731027603149414,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 158,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including the presence of other installment obligations you currently have, the fact that the loan was requested for educational purposes, and the lack of owned or verifiable property. Additionally, you do not own your residence and your employment history falls outside the 4\u2011 to 7\u2011year range we typically consider. Under the Equal Credit Opportunity Act, you have the right to request a further explanation of this decision and to obtain a copy of the information used in evaluating your application.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.6771834492683411,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_education",
+        "shap_value": 0.46999847888946533,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.12992137670516968,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "housing_own",
+        "shap_value": 0.08298268914222717,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_4-7 years",
+        "shap_value": 0.07763030380010605,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 159,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including the 24\u2011month loan term you requested, the purpose of the loan being a new car, and the balances in your accounts\u2014your checking account has a negative balance and your savings account balance is below the required minimum. Additionally, the presence of a checking account with insufficient funds was taken into account. If you would like further clarification or a copy of the information used in this decision, you may request it in writing as provided by law.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5642005205154419,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.27304360270500183,
+        "feature_value": 24.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.15932567417621613,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.1587735414505005,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.08382134884595871,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 160,
+    "notice": "Dear Applicant,\n\nWe regret to inform you that your loan application was not approved. The decision was based on several factors, including the 48\u2011month loan term you requested, a checking account balance that is below the required amount, a savings account balance under 100\u202fDM, and the fact that you are currently renting your residence. These items together did not meet our lending criteria for this loan.\n\nYou have the right to request a more detailed explanation of this decision and to obtain a copy of the information we used in evaluating your application.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "duration",
+        "shap_value": 0.5495456457138062,
+        "feature_value": 48.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.466242253780365,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.2290189117193222,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.13830576837062836,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "housing_rent",
+        "shap_value": 0.10405261069536209,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 162,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including the requested loan term of 45 months, the presence of a checking account with a balance below zero, and the lack of any known property ownership; additionally, the portion of your income allocated to loan payments was at the highest level on our scale. If you would like further explanation or a copy of the information used in making this decision, you may request it in writing under the Equal Credit Opportunity Act.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "duration",
+        "shap_value": 0.7122170925140381,
+        "feature_value": 45.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5309836864471436,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.39644500613212585,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.30745357275009155,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.17805883288383484,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 164,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the size of the credit you requested, the 60\u2011month repayment term you selected, and the fact that the loan purpose is not for a used\u2011car purchase. Additionally, your existing savings account and the lack of a critical credit history were also considered in the evaluation. Under the Equal Credit Opportunity Act, you may request a further explanation of this decision and obtain a copy of the information used in making it.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.7367296814918518,
+        "feature_value": 10144.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.41722628474235535,
+        "feature_value": 60.0
+      },
+      {
+        "feature": "savings_account_unknown/no savings",
+        "shap_value": 0.06010724976658821,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (used)",
+        "shap_value": 0.043748002499341965,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.037763819098472595,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 166,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including your employment history of less than one year, the presence of a checking account, the lack of an established credit history, a savings balance below the required amount, and the inclusion of a co\u2011applicant or guarantor. You have the right to request further clarification and to obtain a copy of the information used in making this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.46988004446029663,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.2693120241165161,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.09229724854230881,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.05582280084490776,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "other_debtors_none",
+        "shap_value": 0.054352834820747375,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 167,
+    "notice": "We regret to inform you that your application for a loan was not approved. The decision was based on the fact that you have no existing credit accounts or all of your credit accounts are already paid in full, you do not have a documented credit history, your checking account balance is negative, and the portion of your income that would be required for loan payments is at the highest level of our scale. Additionally, while you do have a checking account, the information we have indicates it does not provide sufficient evidence of ongoing credit activity. If you would like a more detailed explanation or a copy of the information we used in making this decision, you may request it in writing in accordance with the Equal Credit Opportunity Act.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "credit_history_no credits/all paid",
+        "shap_value": 0.34381815791130066,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.33811432123184204,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.1649356186389923,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.14930041134357452,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.1446799635887146,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 168,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including that your checking account balance is negative, you do not have an established credit history, the loan term you requested is 21 months, and the purpose of the loan is to purchase a new car. Additionally, while you do have a checking account, the overall profile did not meet our lending criteria. You have the right to request further clarification and a copy of the information used in this decision under the Equal Credit Opportunity Act.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.31167134642601013,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.22000469267368317,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.21731986105442047,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.2149084210395813,
+        "feature_value": 21.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.17161422967910767,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 170,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the size of the credit you requested, the fact that you have a checking account but no owned or verifiable property, the 36\u2011month repayment term you selected, and the lack of a documented credit history. If you would like further explanation or a copy of the information we used in making this decision, you may request it in writing.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.8830135464668274,
+        "feature_value": 12389.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.4106951653957367,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.31696033477783203,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.18229788541793823,
+        "feature_value": 36.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.10470578074455261,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 175,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the length of the loan you requested (36 months), the fact that you have a checking account with a negative balance, a savings account balance under 100\u202fDM, and a high installment rate relative to your income. These factors together did not meet our lending criteria at this time. You have the right to request further explanation and a copy of the information used in this decision under the Equal Credit Opportunity Act.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "duration",
+        "shap_value": 0.6211695671081543,
+        "feature_value": 36.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.40604785084724426,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.2395831197500229,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.20689386129379272,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.19481554627418518,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 178,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including the requested loan term of 48 months, the fact that you have only a checking account, the education purpose of the loan, the lack of a known property to secure the loan, and an installment rate that is at the highest level of our income\u2011percentage scale. You have the right to request further clarification of this decision and to obtain a copy of the information used in making it, as provided by law.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "duration",
+        "shap_value": 0.4650575518608093,
+        "feature_value": 48.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.44980186223983765,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_education",
+        "shap_value": 0.37390485405921936,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.3144289255142212,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.2655208706855774,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 179,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including that you currently have only a checking account and no known property ownership, the loan term you requested is 42 months, the portion of your income that would be required for loan payments is at the higher end of our scale, and your savings account balance is less than 100\u202fDM. These items together did not meet our lending criteria for this product. You have the right to request a more detailed explanation and a copy of the information used in making this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5304978489875793,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.3503383696079254,
+        "feature_value": 42.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.3067043423652649,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.17346692085266113,
+        "feature_value": 4.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.13640369474887848,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 180,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including your employment of less than one year, the requested loan amount of 4,675\u202fDM, and the fact that you currently rent your housing. In addition, you do not have a critical credit history and your overall employment length falls outside the 4\u2011 to 7\u2011year range that we typically consider. Under the Equal Credit Opportunity Act, you have the right to request a further explanation of this decision and to obtain a copy of the information used in evaluating your application.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.4762206971645355,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_amount",
+        "shap_value": 0.30658289790153503,
+        "feature_value": 4675.0
+      },
+      {
+        "feature": "housing_rent",
+        "shap_value": 0.14230649173259735,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.1256217658519745,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "employment_since_4-7 years",
+        "shap_value": 0.10179950296878815,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 181,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including a checking account balance that is below the required amount, a requested loan term of 24 months, a savings account balance under the minimum threshold, and the absence of an established credit history. These elements together did not meet our lending criteria for this loan. You have the right to request a further explanation and a copy of the information used in this decision under the Equal Credit Opportunity Act.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5932377576828003,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.4114602208137512,
+        "feature_value": 24.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.379525363445282,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.24200741946697235,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.17171987891197205,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 182,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the fact that the loan purpose is for education, you have a checking account but no established critical credit history, your savings balance is below the required amount, and you are currently renting your housing. You have the right to request further clarification and a copy of the information used in this decision in accordance with the Equal Credit Opportunity Act.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "purpose_education",
+        "shap_value": 0.5263805389404297,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.41477271914482117,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.141205832362175,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.13864931464195251,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "housing_rent",
+        "shap_value": 0.11043752729892731,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 183,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors: you have a checking account with a negative balance, the loan term you requested is 24 months, you do not have any property listed as collateral, and the projected loan payment would represent a high portion of your income. These items together did not meet our lending criteria for this loan. You have the right to request a more detailed explanation and a copy of the information used in making this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.35048359632492065,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.2711934447288513,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.2244216501712799,
+        "feature_value": 24.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.19050219655036926,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.18086323142051697,
+        "feature_value": 4.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 184,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including a negative balance in your checking account, the 18\u2011month loan term you requested, the absence of a critical credit history, and the fact that you already have two existing credit accounts with us. You also have a checking account with the bank, which was considered in the evaluation. Under the Equal Credit Opportunity Act, you may request a further explanation and a copy of the information used in this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.39727288484573364,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.33897095918655396,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.12805584073066711,
+        "feature_value": 18.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.1222628727555275,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "existing_credits",
+        "shap_value": 0.10489016026258469,
+        "feature_value": 2.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 185,
+    "notice": "We regret to inform you that your application for credit in the amount of 14,896\u202fDM was not approved. The decision was based on the size of the requested credit, the fact that we have no record of property ownership or collateral, and the presence of a checking account and existing installment obligations with another lender. Additionally, we do not have a documented critical credit history for you. Under the Equal Credit Opportunity Act, you may request a further explanation of this decision and a copy of the information we used in making it.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "credit_amount",
+        "shap_value": 1.108924150466919,
+        "feature_value": 14896.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.2728554606437683,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.23918922245502472,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.18744641542434692,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.17527376115322113,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 186,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including the 72\u2011month repayment period you requested, the presence of a checking account and a savings account, the fact that the loan is not for a used\u2011car purchase, and that you do not currently own real estate. If you would like further clarification or a copy of the information used in making this decision, you may request it in writing, as provided by law.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "duration",
+        "shap_value": 0.5428829789161682,
+        "feature_value": 72.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.39070624113082886,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_unknown/no savings",
+        "shap_value": 0.0900220274925232,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "purpose_car (used)",
+        "shap_value": 0.06321743875741959,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "property_real estate",
+        "shap_value": 0.06278900057077408,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 188,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including a checking account with a negative balance, the absence of a documented credit history, a savings account balance below the required minimum, and the lack of a registered telephone number on file. These items did not meet our lending criteria at this time. You have the right to request further clarification and a copy of the information used in this decision under the Equal Credit Opportunity Act.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.48887476325035095,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.37796929478645325,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.19386348128318787,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.10082920640707016,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "telephone_yes, registered",
+        "shap_value": 0.05932706594467163,
+        "feature_value": 0.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 190,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors: you have been employed for less than one year, you do not have an established credit history, the loan term you requested is 24 months, the monthly payment would represent a high portion of your income, and your savings balance is below the required amount. You have the right to request further clarification and a copy of the information used in making this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.3799736201763153,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.1612337976694107,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.12403903901576996,
+        "feature_value": 24.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.10560542345046997,
+        "feature_value": 4.0
+      },
+      {
+        "feature": "savings_account_ 100 DM",
+        "shap_value": 0.1031719371676445,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 191,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including that you currently have a checking account, you have other installment plans with another lender or store, you requested a 24\u2011month loan term for the purchase of a new car, and your employment history is less than one year. Under the Equal Credit Opportunity Act, you have the right to request a further explanation of this decision and to obtain a copy of the information used in evaluating your application.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.39811208844184875,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "other_installment_plans_none",
+        "shap_value": 0.3951939642429352,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.3048625886440277,
+        "feature_value": 24.0
+      },
+      {
+        "feature": "purpose_car (new)",
+        "shap_value": 0.23560282588005066,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.21045203506946564,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 193,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including your employment history of less than one year, the absence of a critical credit history, a relatively high installment rate relative to your income, your status as an unskilled resident worker, and the requested loan term of 24 months. You have the right to request further clarification of this decision and to obtain a copy of the information used in making it, as provided by law.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "employment_since_ 1 year",
+        "shap_value": 0.29703521728515625,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.19063910841941833,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.12785685062408447,
+        "feature_value": 4.0
+      },
+      {
+        "feature": "job_unskilled resident",
+        "shap_value": 0.10784029960632324,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.09384053200483322,
+        "feature_value": 24.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 195,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on the length of the loan you requested (48 months), the fact that you currently have a checking account with a negative balance, and the absence of any active credit history or outstanding credit obligations. Additionally, we do not have information about any property you own, which is also a factor in our evaluation. Under the Equal Credit Opportunity Act, you may request a further explanation of this decision and a copy of the information we used in making it.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "duration",
+        "shap_value": 0.5569950938224792,
+        "feature_value": 48.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.5460144877433777,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "credit_history_no credits/all paid",
+        "shap_value": 0.3531286120414734,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "property_unknown/no property",
+        "shap_value": 0.3271188735961914,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.23875689506530762,
+        "feature_value": 1.0
+      }
+    ]
+  },
+  {
+    "applicant_index": 198,
+    "notice": "We regret to inform you that your loan application was not approved. The decision was based on several factors, including a negative balance in your checking account, the length of the loan term you requested (30 months), and the fact that you do not have a critical credit history. Additionally, the installment rate associated with the loan and the presence of a checking account were also considered in the evaluation. Under the Equal Credit Opportunity Act, you have the right to request further clarification and a copy of the information used in making this decision.",
+    "all_factors_mentioned": true,
+    "top_factors": [
+      {
+        "feature": "checking_account_ 0 DM",
+        "shap_value": 0.4553130567073822,
+        "feature_value": 1.0
+      },
+      {
+        "feature": "checking_account_no checking account",
+        "shap_value": 0.3098096549510956,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "duration",
+        "shap_value": 0.16869865357875824,
+        "feature_value": 30.0
+      },
+      {
+        "feature": "credit_history_critical account/other credits",
+        "shap_value": 0.15630561113357544,
+        "feature_value": 0.0
+      },
+      {
+        "feature": "installment_rate",
+        "shap_value": 0.1294451206922531,
+        "feature_value": 4.0
+      }
+    ]
+  }
+]
